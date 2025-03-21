@@ -9,7 +9,7 @@ Plant-associated microorganisms can help crops to alleviate stress and increase 
 ## WORKFLOW
 - DADA2
 - Creation of phyloseq and RDS objects from 16S and ITS datasets
-- [Alpha-diversity analysis]alpha-diversity
+- [Alpha-diversity analysis](https://github.com/sandradiazg/maize_microbiome/tree/main/alpha-diversity "Abrir enlace en una pestaña nueva")
 - Beta-diversity analysis
 - Relative abundances
 - Venn diagrams
