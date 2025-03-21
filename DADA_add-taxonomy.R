@@ -1,4 +1,6 @@
-#!/usr/bin/env Rscript
+## Maize associated bacterial and fungal microbiomes show contrasting conformation patterns dependent on plant compartment and water availability
+## Sara González-Bodí, 2025 (CBGP, UPM)
+## Description: DADA2 taxonomy assignment
 
 library(dada2)
 library(tidyverse)
