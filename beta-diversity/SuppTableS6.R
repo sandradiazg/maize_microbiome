@@ -3,7 +3,7 @@
 ## Description: 
 ## - Run PERMANOVA analysis (Supplementary Table S6)
 ## This script is for 16S graphs, but the same code was used for ITS plots using the ITS ps_filtered_norm ps object.
-## This script only show the analysis for the aggregated dataset. The same method was used for the rest of analysed subsets.
+## This script only shows the analysis for the aggregated dataset. The same method was used for the rest of analysed subsets.
 
 #Clean working environment
 rm(list= ls())
