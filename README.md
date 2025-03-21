@@ -13,5 +13,11 @@ Plant-associated microorganisms can help crops to alleviate stress and increase 
 - Beta-diversity analysis
 - Relative abundances
 - Venn diagrams
-- ALDEx2 differential abundance Analysis
+- ALDEx2 differential abundance analysis
 - Network analysis
+
+## Data availability 
+The datasets supporting the conclusions of this article are available in the National Center For Biotechnology Information (NCBI) repository under the accession number PRJNA1056947. 
+
+## Citation
+
