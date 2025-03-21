@@ -1,14 +1,13 @@
 ## Maize associated bacterial and fungal microbiomes show contrasting conformation patterns dependent on plant compartment and OW availability
 ## Sandra Díaz-González, 2025 (CBGP, UPM)
 ## Description: 
-## - Run PERMANOVA analysis (Supplementary Table S6)
+## - Calculate relative abundances under different conditions (Supplementary Tables S4 and S5)
 ## This script is for 16S dataset, but the same code was used for ITS dataset using the ITS ps_filtered_norm ps object.
 
 #Clean working environment
 rm(list= ls())
 #Load required packages
 library(phyloseq)
-library(vegan)
 library(tibble)
 library(openxlsx)
 library(phyloseqCompanion)
